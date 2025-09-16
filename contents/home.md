@@ -16,5 +16,5 @@ B.E., Biomedical Engineering, Shenyang Pharmaceutical University, 2019—2023.
 Deep Learning, Artificial Intelligence Medicine, Technology and Health.
 
 ### test_png
-![测试图片](test001.png)
+![测试图片](test001.jpeg)
 
