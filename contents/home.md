@@ -9,12 +9,14 @@ She is currently a graduate student in Basic Medicine at the School of Medicine,
 Email: wanxuanli127[at]gmail.com
 
 #### Education
-M.E., Basic Medicine, South China University of Technology, 2023—2026.\
-B.E., Biomedical Engineering, Shenyang Pharmaceutical University, 2019—2023.
+M.E., Basic Medicine, South China University of Technology(Project 985),GPA: 3.5/4.0, 2023—2026.\
+B.E., Biomedical Engineering, Shenyang Pharmaceutical University, GPA: 3.5/4.0, 2019—2023.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Medicine, Technology and Health.
+Artificial intelligence, AI for Health, Medicine, digital healthcare.
 
 ### test_png
 ![测试图片](/static/assets/img/test001.jpeg)  # 绝对路径（推荐）
 
+### test_png
+![测试图片](/static/assets/img/test001.jpeg)  # 绝对路径（推荐）
