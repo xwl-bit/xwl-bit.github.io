@@ -21,16 +21,16 @@ Objective: To address the challenges posed by the complexity and temporal dynami
 Method: We introduced the Bayes-Optimized Boosting-Mamba Tab Model (BOBM), a novel deep learning-based algorithm that incorporates a bidirectional optimization learning mechanism within an ensemble framework. We designed dynamic agent models to enhance computational efficiency and adaptability across diverse clinical scenarios. Additionally, the model architecture was optimized for different temporal phases to enable more precise estimation of the timing and progression of sepsis risk. To improve interpretability, we implemented SHapley Additive exPlanations value analysis, providing clinicians with actionable insights into potential patterns of sepsis progression.\
 Outcome: Experimental evaluation demonstrated that our model attained the highest AUC (0.86-0.95) on the MIMIC-IV dataset across different temporal windows prior to sepsis onset, confirming adaptability and robust generalizability across timeframes. Furthermore, the model demonstrated superior performance AUC( 0.978-0.982) when validated on two independent large-scale external datasets.
 
-![测试图片](/static/assets/img/b1.jpeg)  # Evaluation Results Clinical Interpretation of Key Indicators
-![测试图片](/static/assets/img/b2.jpeg)  # The receiver operating characteristic (ROC) curves
+![测试图片](/static/assets/img/b1.jpeg)  # Evaluation Results Clinical Interpretation of Key Indicators\
+![测试图片](/static/assets/img/b2.jpeg)  # The receiver operating characteristic (ROC) curves\
 
 2、Scaling Transformers to High-Dimensional Sparse Data: A Reformer-BERT Approach 2024\
 Objective: To address the challenges of manual cell type annotation in scRNA-seq data, we developed a large-scale pre-trained model for automated cell type classification.\
 Method: A novel methodology for cell type classification was developed, leveraging a Bidirectional Encoder Representations from Transformers (BERT) architecture that integrates reformer encoders. This framework was subjected to extensive self-supervised pre-training on substantial scRNA-seq datasets, after which supervised fine-tuning was performed to optimize the model for predictive accuracy on targeted first-tier cell type classification tasks.\
 Outcome: The performance of the proposed model was rigorously evaluated through a series of experiments. These evaluations, conducted on scRNA-seq data, consistently revealed the superior efficacy of our approach in accurately classifying major cell categories when compared against several established baseline methods and the inherent difficulties in the field.
 
-![测试图片](/static/assets/img/b3.jpeg)  # Schematic illustration of cardiac uHAF
-![测试图片](/static/assets/img/b4.jpeg)  # Model evaluation
+![测试图片](/static/assets/img/b3.jpeg)  # Schematic illustration of cardiac uHAF\
+![测试图片](/static/assets/img/b4.jpeg)  # Model evaluation\
 
 3、MATLAB Tongue Image Processing for Disease Diagnosis 2022\
 Objective: To overcome the limitations of traditional tongue diagnosis in Chinese medicine, which relies on subjective visual inspection and lacks quantitative accuracy and reproducibility.\
@@ -38,8 +38,8 @@ Method: I developed a robust image segmentation pipeline to process histological
 Outcome: Successfully achieved accurate and robust segmentation on two challenging sets of human tongue tissue images, validating the method's effectiveness and practical utility for complex biomedical image analysis.\
 Achievement：Gained skills in biomedical image processing, feature engineering, and supervised learning.
 
-![测试图片](/static/assets/img/b5.jpeg)  # border detection
-![测试图片](/static/assets/img/b6.jpeg)  # Outcome
+![测试图片](/static/assets/img/b5.jpeg)  # border detection\
+![测试图片](/static/assets/img/b6.jpeg)  # Outcome\
 
 4、Machine Learning-Assisted Image Biosensor for Cystitis Diagnosis2024\
 Objective: To address the limitations of inaccurate and subjective manual analysis.\
@@ -55,13 +55,13 @@ Method:My role involved experiment and data analysis in the multi-step synthesis
 Outcome: Successfully created nanoparticles with enhanced mucus penetration (32.1% higher Papp), demonstrating a viable strategy for oral drug delivery.\
 Achievement：Performed UPLC-MS/MS analysis, nanoparticle characterization (TEM, DLS), and in-vitro validatio.
 
-![测试图片](/static/assets/img/b9.jpeg)  # characterization results
-![测试图片](/static/assets/img/b10.jpeg)  # Confusion matrix of the machine learning model (BG: background)
+![测试图片](/static/assets/img/b9.jpeg)  # characterization results\
+![测试图片](/static/assets/img/b10.jpeg)  # Confusion matrix of the machine learning model (BG: background)\
 
 6、Bcl-2/ODN Binding Structure–Activity Relationship Exploration 2021\
 Method: Constructed recombinant Bcl-2 mutant expression systems to assess binding site effects. Purified expressed proteins via chromatographic separation and analyzed purity by SDS‑PAGE. Performed protein concentration measurements using spectrophotometric assays.\
 Outcome: Successfully expressed and purified target Bcl-2 variants with sufficient yield and purity for downstream binding assays.\
 Achievement：Mastered essential biochemical lab techniques, including protein purification, SDS-PAGE analysis, and protein concentration quantification.
 
-![测试图片](/static/assets/img/b11.jpeg)  # characterization results
+![测试图片](/static/assets/img/b11.jpeg)  # characterization results\
 ![测试图片](/static/assets/img/b12.jpeg)  # Induced expression and isolation purification of mutants
