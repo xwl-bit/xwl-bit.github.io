@@ -21,7 +21,7 @@ Objective: To address the challenges posed by the complexity and temporal dynami
 Method: We introduced the Bayes-Optimized Boosting-Mamba Tab Model (BOBM), a novel deep learning-based algorithm that incorporates a bidirectional optimization learning mechanism within an ensemble framework. We designed dynamic agent models to enhance computational efficiency and adaptability across diverse clinical scenarios. Additionally, the model architecture was optimized for different temporal phases to enable more precise estimation of the timing and progression of sepsis risk. To improve interpretability, we implemented SHapley Additive exPlanations value analysis, providing clinicians with actionable insights into potential patterns of sepsis progression.\
 Outcome: Experimental evaluation demonstrated that our model attained the highest AUC (0.86-0.95) on the MIMIC-IV dataset across different temporal windows prior to sepsis onset, confirming adaptability and robust generalizability across timeframes. Furthermore, the model demonstrated superior performance AUC( 0.978-0.982) when validated on two independent large-scale external datasets.
 
-![测试图片](/static/assets/img/b1.jpeg)  # Evaluation Results Clinical Interpretation of Key Indicators   
+![测试图片](/static/assets/img/b1.jpeg)  # Evaluation Results  \ Clinical Interpretation of Key Indicators   
 
 
 ![测试图片](/static/assets/img/b2.jpeg)  # The receiver operating characteristic (ROC) curves   
@@ -47,7 +47,7 @@ Achievement：Gained skills in biomedical image processing, feature engineering,
 ![测试图片](/static/assets/img/b5.jpeg)  # border detection   
 
 
-![测试图片](/static/assets/img/b6.jpeg)  # Outcome   
+![测试图片](/static/assets/img/b6.jpeg)  # Outcome  
 
 
 <strong>4. Machine Learning-Assisted Image Biosensor for Cystitis Diagnosis 2024 </strong>\
